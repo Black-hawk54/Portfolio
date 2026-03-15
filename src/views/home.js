@@ -11,7 +11,7 @@ const Home = (props) => {
   return (
     <div className="home-container10">
       <Helmet>
-        <title>Mindaka Bandara</title>
+        <title>Mindaka Bandara | Computer Engineer</title>
         <meta property="og:title" content="Mindaka Bandara | Computer Engineer" />
         <link
           rel="canonical"
