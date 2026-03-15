@@ -1,7 +1,0 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /
-
-Sitemap: https://spiffy-celebrated-beaver-lxhqjv.teleporthq.app/sitemap.xml
