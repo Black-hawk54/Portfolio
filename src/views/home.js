@@ -12,7 +12,7 @@ const Home = (props) => {
     <div className="home-container10">
       <Helmet>
         <title>Mindaka Bandara</title>
-        <meta property="og:title" content="Mindaka Bandara" />
+        <meta property="og:title" content="Mindaka Bandara | Computer Engineer" />
         <link
           rel="canonical"
           href="https://spiffy-celebrated-beaver-lxhqjv.teleporthq.app/"
